@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Work in Progress
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Current research projects at various stages of development.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [under review, work in progress]
 horizontal: false
 ---
 
